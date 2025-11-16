@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-### ðŸ‘‹ Hi, I'm **Mohammed Jamal Dawoud**
+### Hi, I'm **Mohammed Jamal Dawoud**
 
 **AI & Medical Imaging Engineer**  
 **Deep Learning Â· Medical Image Processing Â· Scientific Computing**
@@ -13,7 +13,7 @@
 
 ---
 
-## ðŸ‘¨â€ðŸ”¬ About Me
+## About Me
 
 I'm **Mohammed Jamal Dawoud**, an engineer focused on **AI for medical imaging**, **image processing**, and **scientific computing**.  
 I work primarily with **Python**, **MATLAB**, and **C++** to build:
@@ -27,13 +27,13 @@ I enjoy turning complex imaging and ML ideas into **clean, reproducible code** a
 
 **Professional tagline ideas I identify with:**
 
-- *AI & Medical Imaging Engineer*
-- *Deep Learning Researcher Â· MRI Image Processing Â· Python Developer*
-- *Specialized in Image Segmentation, GMMs, U-Net, and Medical Imaging Pipelines*
+- AI & Medical Imaging Engineer
+- Deep Learning Researcher Â· MRI Image Processing Â· Python Developer
+- Specialized in Image Segmentation, GMMs, U-Net, and Medical Imaging Pipelines
 
 ---
 
-## ðŸ›  Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -67,76 +67,76 @@ I enjoy turning complex imaging and ML ideas into **clean, reproducible code** a
 
 ---
 
-## ðŸŒŸ What I Work On
+## What I Work On
 
-- **Medical Imaging**
+- Medical Imaging
   - MRI / CT / X-ray image preprocessing and enhancement
   - Intensity normalization, registration, noise reduction, and artifact handling
-- **Image Segmentation & Computer Vision**
+- Image Segmentation & Computer Vision
   - Classical methods: GMM-based segmentation, thresholding, region growing
   - Deep learning: U-Net-style models, encoderâ€“decoder architectures, segmentation pipelines
-- **Machine Learning & Deep Learning**
+- Machine Learning & Deep Learning
   - Model training, hyperparameter tuning, and evaluation
   - Experiment tracking and reproducible workflows
-- **Scientific Computing**
+- Scientific Computing
   - Numerical methods and matrix computations
   - Algorithm prototyping in Python/MATLAB
-- **Software Engineering**
+- Software Engineering
   - Clean, modular codebases
   - Game/system prototypes (e.g., Unity C# projects such as an UNO card game)
 
 ---
 
-## ðŸŒŸ Featured Projects
+## Featured Projects
 
 > Update the list below with your own top repositories (pin them on your GitHub profile as well).
 
-### 1ï¸âƒ£ UNO Card Game â€“ Unity C# (Software_Eng)
+### 1) UNO Card Game â€“ Unity C# (Software_Eng)
 
-- **Description**: A polished UNO card game implemented in Unity with a focus on clean architecture, UI/UX, and game logic. Includes menu systems, AI players, and Firebase integration for authentication and leaderboard.
-- **Tech**: C#, Unity, Firebase, DOTween, TextMesh Pro
-- **Highlights**:
+- Description: A polished UNO card game implemented in Unity with a focus on clean architecture, UI/UX, and game logic. Includes menu systems, AI players, and Firebase integration for authentication and leaderboard.
+- Tech: C#, Unity, Firebase, DOTween, TextMesh Pro
+- Highlights:
   - Multiple managers (GameManager, GamePlayManager, MenuManager) with clear responsibilities
   - Leaderboard and authentication flows
   - Strong separation between frontend (UI) and backend (game logic)
 
 ---
 
-### 2ï¸âƒ£ Medical Imaging / Segmentation Project (example)
+### 2) Medical Imaging / Segmentation Project (example)
 
-- **Description**: Deep learning pipeline for MRI segmentation, including preprocessing, model training, and evaluation. Uses a U-Net-style architecture for voxel-wise segmentation.
-- **Tech**: Python, PyTorch / TensorFlow, NumPy, OpenCV, MATLAB
-- **Highlights**:
+- Description: Deep learning pipeline for MRI segmentation, including preprocessing, model training, and evaluation. Uses a U-Net-style architecture for voxel-wise segmentation.
+- Tech: Python, PyTorch / TensorFlow, NumPy, OpenCV, MATLAB
+- Highlights:
   - Data loading and augmentation for 2D/3D images
   - Training scripts with reproducible configs
   - Evaluation metrics (Dice, IoU, etc.)
 
 ---
 
-## ðŸŽ“ Skills & Interests
+## Skills & Interests
 
-- **Core Skills**
+- Core Skills
   - Medical image processing (MRI, CT, X-ray)
   - Image segmentation (GMM, U-Net-like models)
   - Deep learning and classical ML
   - Scientific computing and numerical methods
   - Software design and clean coding practices
 
-- **Research Interests**
+- Research Interests
   - AI for medical imaging and diagnostics
   - Robust and interpretable segmentation models
   - Automated medical image preprocessing pipelines
   - Reproducible ML in healthcare
 
-- **Programming**
-  - **Python** (advanced)
-  - **MATLAB** (strong)
-  - **C++** (solid foundations)
-  - **C# / Unity** (game & simulation development)
+- Programming
+  - Python (advanced)
+  - MATLAB (strong)
+  - C++ (solid foundations)
+  - C# / Unity (game & simulation development)
 
 ---
 
-## ðŸ“Š GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -159,22 +159,22 @@ I enjoy turning complex imaging and ML ideas into **clean, reproducible code** a
 
 ---
 
-## ðŸ“œ Certifications & Education
+## Certifications & Education
 
 > Add real items here when available.
 
-- ðŸŽ“ **[Degree / Program Name]** â€“ *[University / Institution]*
-- ðŸ“„ **[Certification Name]** â€“ *[Issuing Organization]*
-- ðŸ“„ **[Online Specialization / Course]** â€“ *[Platform]*
+- Degree / Program Name â€“ University / Institution
+- Certification Name â€“ Issuing Organization
+- Online Specialization / Course â€“ Platform
 
 ---
 
-## ðŸ¤ Get in Touch
+## Get in Touch
 
-- **LinkedIn**: [linkedin.com/in/your-linkedin](https://www.linkedin.com)  
-- **Email**: your.email@example.com  
-- **GitHub**: [github.com/MohammedJamalDawoud](https://github.com/MohammedJamalDawoud)
+- LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com)  
+- Email: your.email@example.com  
+- GitHub: [github.com/MohammedJamalDawoud](https://github.com/MohammedJamalDawoud)
 
-If youâ€™re looking for someone who can connect **AI, medical imaging, and solid engineering practices**, Iâ€™d be happy to connect.
+If youâ€™re looking for someone who can connect AI, medical imaging, and solid engineering practices, Iâ€™d be happy to connect.
 
 ---
