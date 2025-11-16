@@ -3,7 +3,7 @@
 ### Hi, I'm **Mohammed Jamal Dawoud**
 
 **AI & Medical Imaging Engineer**  
-**Deep Learning Â· Medical Image Processing Â· Scientific Computing**
+**Deep Learning - Medical Image Processing - Scientific Computing**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MohammedJamalDawoud&color=blue)](https://github.com/MohammedJamalDawoud)
 [![GitHub Followers](https://img.shields.io/github/followers/MohammedJamalDawoud?style=social)](https://github.com/MohammedJamalDawoud?tab=followers)
@@ -24,12 +24,6 @@ I work primarily with **Python**, **MATLAB**, and **C++** to build:
 - High-quality software and tools for experiments and visualization
 
 I enjoy turning complex imaging and ML ideas into **clean, reproducible code** and **well-documented experiments**.
-
-**Professional tagline ideas I identify with:**
-
-- AI & Medical Imaging Engineer
-- Deep Learning Researcher Â· MRI Image Processing Â· Python Developer
-- Specialized in Image Segmentation, GMMs, U-Net, and Medical Imaging Pipelines
 
 ---
 
@@ -74,7 +68,7 @@ I enjoy turning complex imaging and ML ideas into **clean, reproducible code** a
   - Intensity normalization, registration, noise reduction, and artifact handling
 - Image Segmentation & Computer Vision
   - Classical methods: GMM-based segmentation, thresholding, region growing
-  - Deep learning: U-Net-style models, encoderâ€“decoder architectures, segmentation pipelines
+  - Deep learning: U-Net-style models, encoder-decoder architectures, segmentation pipelines
 - Machine Learning & Deep Learning
   - Model training, hyperparameter tuning, and evaluation
   - Experiment tracking and reproducible workflows
@@ -91,7 +85,7 @@ I enjoy turning complex imaging and ML ideas into **clean, reproducible code** a
 
 > Update the list below with your own top repositories (pin them on your GitHub profile as well).
 
-### 1) UNO Card Game â€“ Unity C# (Software_Eng)
+### 1) UNO Card Game - Unity C# (`Software_Eng`)
 
 - Description: A polished UNO card game implemented in Unity with a focus on clean architecture, UI/UX, and game logic. Includes menu systems, AI players, and Firebase integration for authentication and leaderboard.
 - Tech: C#, Unity, Firebase, DOTween, TextMesh Pro
@@ -132,30 +126,7 @@ I enjoy turning complex imaging and ML ideas into **clean, reproducible code** a
   - Python (advanced)
   - MATLAB (strong)
   - C++ (solid foundations)
-  - C# / Unity (game & simulation development)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedJamalDawoud&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-</a>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedJamalDawoud&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</a>
-
-<a href="#">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedJamalDawoud&theme=tokyonight&hide_border=true" height="160" />
-</a>
-
-<a href="#">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedJamalDawoud&theme=tokyonight" />
-</a>
-
-</div>
+  - C# / Unity (game and simulation development)
 
 ---
 
@@ -163,9 +134,9 @@ I enjoy turning complex imaging and ML ideas into **clean, reproducible code** a
 
 > Add real items here when available.
 
-- Degree / Program Name â€“ University / Institution
-- Certification Name â€“ Issuing Organization
-- Online Specialization / Course â€“ Platform
+- Degree / Program Name - University / Institution
+- Certification Name - Issuing Organization
+- Online Specialization / Course - Platform
 
 ---
 
@@ -175,6 +146,6 @@ I enjoy turning complex imaging and ML ideas into **clean, reproducible code** a
 - Email: your.email@example.com  
 - GitHub: [github.com/MohammedJamalDawoud](https://github.com/MohammedJamalDawoud)
 
-If youâ€™re looking for someone who can connect AI, medical imaging, and solid engineering practices, Iâ€™d be happy to connect.
+If you're looking for someone who can connect AI, medical imaging, and solid engineering practices, I'd be happy to connect.
 
 ---
